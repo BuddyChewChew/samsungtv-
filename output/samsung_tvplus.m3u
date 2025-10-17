@@ -145,7 +145,7 @@ https://jmp2.uk/stvp-KR480000234
 https://jmp2.uk/stvp-KRBC3500019CD
 #EXTINF:-1 tvg-id="KRBC4100008Z6" tvg-name="E채널 토요일은 밥이 좋아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20250827T005927SQUARE.png" group-title="예능" tvg-chno="602",E채널 토요일은 밥이 좋아
 https://jmp2.uk/stvp-KRBC4100008Z6
-#EXTINF:-1 tvg-id="KR4100001LW" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20250827T010237SQUARE.png" group-title="예능" tvg-chno="603",살롱드립
+#EXTINF:-1 tvg-id="KR4100001LW" tvg-name="살롱드립" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4100001LW_20251016T010907SQUARE.png" group-title="예능" tvg-chno="603",살롱드립
 https://jmp2.uk/stvp-KR4100001LW
 #EXTINF:-1 tvg-id="KRBC3200009M7" tvg-name="KBS Joy 무엇이든 물어보살" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20250827T010007SQUARE.png" group-title="예능" tvg-chno="604",KBS Joy 무엇이든 물어보살
 https://jmp2.uk/stvp-KRBC3200009M7
@@ -3925,6 +3925,8 @@ https://jmp2.uk/stvp-GBBD230000420
 https://jmp2.uk/stvp-ESBD2300003S5
 #EXTINF:-1 tvg-id="FRBD1900012T7" tvg-name="Charlotte aux Fraises" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20241015T040231SQUARE.png" group-title="Jeunesse" tvg-chno="4807",Charlotte aux Fraises
 https://jmp2.uk/stvp-FRBD1900012T7
+#EXTINF:-1 tvg-id="GB2400008GK" tvg-name="Dennis and Gnasher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png" group-title="Kids" tvg-chno="4808",Dennis and Gnasher
+https://jmp2.uk/stvp-GB2400008GK
 #EXTINF:-1 tvg-id="ESBA33000324U" tvg-name="Rugrats" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png" group-title="Niños" tvg-chno="4809",Rugrats
 https://jmp2.uk/stvp-ESBA33000324U
 #EXTINF:-1 tvg-id="FRBD5100002NL" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20250729T045525SQUARE.png" group-title="Jeunesse" tvg-chno="4809",SuperToons TV
@@ -4369,5 +4371,3 @@ https://jmp2.uk/stvp-FR2600002X9
 https://jmp2.uk/stvp-GB2600015OS
 #EXTINF:-1 tvg-id="IT2600003FM" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20240827T040705SQUARE.png" group-title="Film" tvg-chno="4999",Film d'azione - Rakuten TV
 https://jmp2.uk/stvp-IT2600003FM
-#EXTINF:-1 tvg-id="GB2400008GK" tvg-name="Dennis and Gnasher" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251013T054324SQUARE.png" group-title="Kids" tvg-chno="10027",Dennis and Gnasher
-https://jmp2.uk/stvp-GB2400008GK
